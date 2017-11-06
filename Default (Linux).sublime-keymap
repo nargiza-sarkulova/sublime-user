@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+shift+/"], "command": "fold_python_docstrings" },
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+]

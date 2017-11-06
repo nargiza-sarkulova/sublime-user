@@ -1,0 +1,41 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_match_enabled": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Solarized (dark).tmTheme",
+	"default_encoding": "utf-8",
+	"detect_indentation": false,
+	"enable_tab_scrolling": false,
+	"fold_python_docstrings_onload": true,
+	"folder_exclude_patterns":
+	[
+		"build/",
+		"static/",
+		"assets/"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": true,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Sodarized Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": true
+}

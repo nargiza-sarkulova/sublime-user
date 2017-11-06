@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CodeFormatter",
+		"Dockerfile Syntax Highlighting",
+		"Fold Python Docstrings",
+		"GitGutter",
+		"Pretty JSON",
+		"Pretty YAML",
+		"Python Pretty Print",
+		"rsub",
+		"Theme - Sodarized"
+	]
+}
