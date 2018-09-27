@@ -6,6 +6,10 @@
 	"default_encoding": "utf-8",
 	"detect_indentation": false,
 	"enable_tab_scrolling": false,
+	"file_exclude_patterns":
+	[
+		"*.log"
+	],
 	"fold_python_docstrings_onload": true,
 	"folder_exclude_patterns":
 	[
