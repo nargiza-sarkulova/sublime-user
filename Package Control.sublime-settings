@@ -5,11 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"CodeFormatter",
+		"DiffView",
+		"Diffy",
 		"Dockerfile Syntax Highlighting",
 		"Fold Python Docstrings",
 		"GitGutter",
 		"Package Control",
+		"Paraiso Color Scheme",
 		"Pretty JSON",
 		"Pretty YAML",
 		"Python Pretty Print",
