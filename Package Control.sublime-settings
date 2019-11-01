@@ -5,20 +5,23 @@
 	],
 	"installed_packages":
 	[
+		"Agila Theme",
 		"All Autocomplete",
 		"CodeFormatter",
 		"DiffView",
 		"Diffy",
 		"Dockerfile Syntax Highlighting",
-		"Fold Python Docstrings",
 		"GitGutter",
 		"Package Control",
-		"Paraiso Color Scheme",
 		"Pretty JSON",
+		"Pretty Ruby",
 		"Pretty YAML",
 		"Python Pretty Print",
-		"rsub",
+		"RuboCop",
+		"Ruby Hash Converter",
+		"Terminal",
 		"Theme - Sodarized",
+		"TypeScript Syntax",
 		"URLEncode"
 	]
 }

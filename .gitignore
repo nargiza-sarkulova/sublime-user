@@ -11,3 +11,5 @@ __pycache__
 todo.md
 Projects/
 oscrypto-ca-bundle.crt
+.DS_Store
+

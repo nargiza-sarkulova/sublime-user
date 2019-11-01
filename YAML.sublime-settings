@@ -1,4 +1,6 @@
-// These settings override both User and Default settings for the YAML syntax
 {
-    "tab_size": 4,
+	"extensions":
+	[
+	],
+	"tab_size": 4
 }
