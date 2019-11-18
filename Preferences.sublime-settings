@@ -5,7 +5,7 @@
 	"color_scheme": "Packages/Agila Theme/Agila Light Solarized.tmTheme",
 	"default_encoding": "utf-8",
 	"detect_indentation": false,
-	"draw_white_space": "all",
+	"draw_white_space": "none",
 	"enable_tab_scrolling": false,
 	"file_exclude_patterns":
 	[

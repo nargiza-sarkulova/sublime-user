@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+
 	],
 	"installed_packages":
 	[
@@ -22,9 +23,9 @@
 		"Python Pretty Print",
 		"RuboCop",
 		"Ruby Hash Converter",
-		"Sublimerge 3",
 		"Terminal",
 		"Theme - Sodarized",
+		"Theme - Spacegray",
 		"TypeScript Syntax",
 		"URLEncode"
 	]
