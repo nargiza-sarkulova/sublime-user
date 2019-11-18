@@ -1232,11 +1232,11 @@
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#9911</string>
-
         <key>background</key>
         <string>#991</string>
+
+        <key>foreground</key>
+        <string>#9911</string>
 
     </dict>
 </dict><dict>
@@ -1247,11 +1247,11 @@
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#991</string>
-
         <key>background</key>
         <string>#99991109</string>
+
+        <key>foreground</key>
+        <string>#991</string>
 
     </dict>
 </dict></array>
