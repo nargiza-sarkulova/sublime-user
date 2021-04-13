@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-
 	],
 	"installed_packages":
 	[
@@ -16,6 +15,7 @@
 		"FileManager",
 		"GitGutter",
 		"GitSavvy",
+		"HTMLBeautify",
 		"Package Control",
 		"Pretty JSON",
 		"Pretty Ruby",
@@ -23,7 +23,7 @@
 		"Python Pretty Print",
 		"RuboCop",
 		"Ruby Hash Converter",
-		"Terminal",
+		"Sync View Scroll",
 		"Theme - Sodarized",
 		"Theme - Spacegray",
 		"TypeScript Syntax",

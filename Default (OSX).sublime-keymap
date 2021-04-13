@@ -1,5 +1,4 @@
 [
     { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
     { "keys": ["super+down"], "command": "goto_definition" },
-    { "keys": ["super+up"], "command": "jump_back" }
 ]
